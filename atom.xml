@@ -255,45 +255,52 @@
   </entry>
   
   <entry>
-    <title>我眼中的Android与iOS</title>
+    <title>我眼中的 Android 与 iOS</title>
     <link href="http://darleey.me/programming/comment/my-view-on-android-and-ios.html"/>
     <id>http://darleey.me/programming/comment/my-view-on-android-and-ios.html</id>
     <published>2016-11-19T15:10:49.000Z</published>
-    <updated>2016-11-29T15:12:50.000Z</updated>
+    <updated>2017-04-21T15:20:56.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://og4ax7q57.bkt.clouddn.com/android-spy.png?imageView2/2/w/700/interlace/0/q/100%7Cwatermark/2/text/ZGFybGVleS5tZQ==/font/Y29taWMgc2FucyBtcw==/fontsize/500/fill/I0VGRUZFRg==/dissolve/64/gravity/SouthEast/dx/30/dy/20" alt=""></p>
-<p>博主作为一枚伪Android开发者，在苹果阵营<strong>潜伏</strong>了近两年之久，最近光荣恢复了身份，为表忠心，作一下思想汇报！</p>
+<p>作为一枚伪Android开发者，在苹果阵营<strong>潜伏</strong>了近两年之久，最近光荣恢复了身份，为表忠心，作一下思想汇报！</p>
 <a id="more"></a>
+<br>
 <h1 id="前言">前言</h1>
-<p>这两年叫嚣iOS将统治江湖，Android完蛋的越来越少了。从最近的数据来看<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>，Android已经占有了近九成的市场，这个数值似乎已经趋于稳定了。这并不代表着iPhone用户的减少，只是Android用户增长地更多而已，只是愿意为iPhone发声的人变少了而已，因为iPhone在某种程度上已经沦为了街机，不复三年前手持iPhone便代表着个性时尚的光景。扯开来说一下，喜欢发声的大多是有富有表现欲的人&lt;<em>比如博主，捂脸···</em>&gt;，突然有一天发现自己一直粉着的苹果成了随处可见的大白菜，虽不至于脱粉，但也不会硬着头皮宣传乔帮主的剿匪遗志了。</p>
+<p>这两年叫嚣 iOS 将统治江湖，Android 完蛋的越来越少了。从最近的数据来看<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>，Android 已经占有了近九成的市场，这个数值似乎已经趋于稳定了。这并不代表着 iPhone 用户的减少，只是 Android 用户增长地更多而已，只是愿意为 iPhone 发声的人变少了而已，因为 iPhone 在某种程度上已经沦为了街机，不复三年前手持 iPhone 便代表着个性时尚的光景。扯开来说一下，喜欢发声的大多是有富有表现欲的人&lt;<em>比如我，捂脸···</em>&gt;，突然有一天发现自己一直粉着的苹果成了随处可见的大白菜，虽不至于脱粉，但也不会硬着头皮宣传乔帮主的剿匪遗志了。</p>
 <p><img src="http://og4ax7q57.bkt.clouddn.com/android-ios-we-competitors.png?imageView2/2/w/600/interlace/0/q/100%7Cwatermark/2/text/ZGFybGVleS5tZQ==/font/Y29taWMgc2FucyBtcw==/fontsize/500/fill/I0VGRUZFRg==/dissolve/64/gravity/SouthEast/dx/30/dy/20" alt=""></p>
-<p>好像忘了什么，Windows Phone？难道你不知道&quot;诺基亚已经被微软卖给了富士康做Android &quot;<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>？</p>
+<p>好像忘了什么，Windows Phone？难道你不知道&quot;诺基亚已经被微软卖给了富士康做 Android &quot;<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>？</p>
+<br>
 <h1 id="用户体验">用户体验</h1>
 <p>不得不说，苹果是一家极富有设计师情怀的科技公司，在品控这一方面把持的相当好，它的谨慎、内敛使它成为了行业楷模。</p>
-<p>从外观来看，无论是MAC还是iPhone，它们的外表都可以用简约流畅来形容。尤其是金属材质的引入，开创了行业先锋，无论是Windows，还是Android，在这方面，都被甩了几十条街。</p>
-<p>应用层面，在Google 没有推出Material Design之前，大多数的Android应用都可以用惨不忍睹来形容。即使现在有了，但是还是有很多极富有屌丝情怀的试水应用。这是没有办法的事，要知道，Android作为一个开源的系统，本质上就饱含极客&lt;<em>屌丝</em>&gt;情怀，再加上审核标准的缺失，不出幺蛾子才是出幺蛾子。</p>
-<p>在系统层面，苹果依旧秉持着&quot;把用户当作傻瓜&quot;的原则。少了诸如清理垃圾，释放内存，文件管理以及令人心动的开发者模式这些选项，手机完完全全地成为了设备，少了很多自由，以及折腾的乐趣。</p>
-<p>在个性化方面，这是苹果的死穴。无论是不可定制的操作系统还是近乎一脉相承的外表，都无法彰显用户的个性，对于追求自由个性且消费任性的90后,00后而言，沦落为大叔机的几率我还是很看好的~</p>
-<p>补一刀，Google现在也有了自己的旗舰机Google Pixel，而且由于景德镇镇情特殊，相比于某米自导自演自High的饥饿营销，Google Pixel才是名至所归的真个性。</p>
+<p>从外观来看，无论是 MAC 还是 iPhone，它们的外表都可以用简约流畅来形容。尤其是金属材质的引入，开创了行业先锋，无论是 Windows，还是 Android，在这方面，都被甩了几十条街。</p>
+<p>应用层面，在 Google 没有推出 Material Design 之前，大多数的 Android 应用都可以用惨不忍睹来形容。即使现在有了，但是还是有很多极富有屌丝情怀的试水应用。这是没有办法的事，要知道， Android 作为一个开源的系统，本质上就饱含极客&lt;<em>屌丝</em>&gt;情怀，再加上审核标准的缺失，不出幺蛾子才是出幺蛾子。</p>
+<p>在系统层面，苹果依旧秉持着“把用户当作傻瓜”的原则。少了诸如清理垃圾，释放内存，文件管理以及令人心动的开发者模式这些选项，手机完完全全地成为了设备，少了很多自由，以及折腾的乐趣。</p>
+<p>在个性化方面，这是苹果的死穴。无论是不可定制的操作系统还是近乎一脉相承的外表，都无法彰显用户的个性，对于追求自由个性且消费任性的 90 后， 00 后而言，沦落为大叔机的几率我还是很看好的~</p>
+<p>补一刀，Google 现在也有了自己的旗舰机 Google Pixel，而且由于景德镇镇情特殊，相比于某米 自导自演自High 的饥饿营销<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>， Google Pixel 才是名至所归的真个性。</p>
+<br>
 <h1 id="平台支持">平台支持</h1>
-<p>iOS与Mac的搭配没得说···</p>
-<p>Android？桌面操作系统一直是Google的软肋，最近有消息说它准备推出融合了Android和Chrome OS的Andrometa，表示很期待。</p>
+<p>iOS 与 Mac 的搭配没得说···</p>
+<p>Android？桌面操作系统一直是 Google 的软肋，最近有消息说它准备推出融合了 Android 和 Chrome OS 的 Andrometa，表示很期待。</p>
+<br>
 <h1 id="就业">就业</h1>
-<p>iOS对开发者的需求量及不上Android，为什么这样说呢？首先是工具类应用，虽然现在Android的工具类应用远远少于iOS，但这就像给和尚卖梳子一样，随着支付体制的完善，工具类应用总会觊觎Android这一块市场的，这是一块潜在的蛋糕。更重要的是华为，小米，中兴，魅族，三星这类公司，怎么都得开发有自家特色的应用吧，这又是一块蛋糕，技高者得之就是了。</p>
+<p>iOS 对开发者的需求量及不上 Android，为什么这样说呢？首先是工具类应用，虽然现在 Android 的工具类应用远远少于 iOS，但这就像给和尚卖梳子一样，随着支付体制的完善，工具类应用总会觊觎 Android 这一块市场的，这是一块潜在的蛋糕。更重要的是华为，小米，中兴，魅族，三星这类公司，怎么都得开发有自家特色的应用吧，这又是一块蛋糕，技高者得之就是了。</p>
+<br>
 <h1 id="开发者">开发者</h1>
-<p>iOS是一个封闭的系统，这意味着你只能看到那些暴露出来的api，只能知其然而不能知其所以然，总有遇到瓶颈的那一天。而且除了最初的设备门槛有点高&lt;MAC &amp;&amp; 搭载iOS的设备&gt;，剩下的就是练习api的熟练度了，有意思？</p>
-<p>再举一个例子，Google和iOS在国内都有一些开发者自行组织的面基大会，Android会场主要是一群极客做分享，秀技术，插件化，热修复，内存优化··· ··· iOS嘛，梦想，创业，游戏，运营···</p>
+<p>iOS 是一个封闭的系统，这意味着你只能看到那些暴露出来的 api，只能知其然而不能知其所以然，总有遇到瓶颈的那一天。而且除了最初的设备门槛有点高&lt; MAC &amp;&amp; 搭载 iOS 的设备&gt;，剩下的就是练习 api 的熟练度了，有意思？</p>
+<p>再举一个例子，Google 和 iOS 在国内都有一些开发者自行组织的面基大会，Android 会场主要是一群极客做分享，秀技术，插件化，热修复，内存优化··· ···  iOS 嘛，梦想，创业，游戏，运营 ···</p>
 <p>以上~</p>
+<br>
 <h1 id="前景">前景</h1>
 <p>个性化才是未来！</p>
 <p>多生态才是未来！</p>
-<p>自由才是未来！&lt;<em>不升级就强制显示小红点的做法无异于耍流氓</em>&gt;</p>
+<p>自由才是未来！<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup></p>
 <center><font color="#818285" size="4"><b><i>A<b><i></i></b></i></b></font></center>
 <p><img src="http://og4ax7q57.bkt.clouddn.com/android-kill-ios.png?imageView2/2/w/700/interlace/0/q/100%7Cwatermark/2/text/ZGFybGVleS5tZQ==/font/Y29taWMgc2FucyBtcw==/fontsize/500/fill/I0VGRUZFRg==/dissolve/64/gravity/SouthEast/dx/30/dy/20" alt=""></p>
 <center><font color="#818285" size="4"><b><i>B<b><i></i></b></i></b></font></center>
 <p><img src="http://og4ax7q57.bkt.clouddn.com/android-apple-we-friends.png?imageView2/2/w/700/interlace/0/q/100%7Cwatermark/2/text/ZGFybGVleS5tZQ==/font/Y29taWMgc2FucyBtcw==/fontsize/500/fill/I0VGRUZFRg==/dissolve/64/gravity/SouthEast/dx/30/dy/20" alt=""></p>
 <p><big>Which do you prefer that  the future would be, A or B?<big></big></big></p>
 <p><small>注：本文图片均来源于网络，版权没有<small></small></small></p>
+<br>
 <hr>
 <p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="external"><img src="http://og4ax7q57.bkt.clouddn.com/by-nc-sa.4.0.88x31.png" alt="知识共享许可协议"></a><br>
 本作品采用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="external">知识共享署名-非商业性使用-相同方式共享 4.0 许可协议</a>进行许可，转载请保留原文链接及作者。</p>
@@ -304,6 +311,10 @@
 </li>
 <li id="fn2" class="footnote-item"><p><a href="http://gadgets.ndtv.com/mobiles/news/nokia-android-smartphones-set-to-launch-at-mwc-2017-as-hmd-global-confirms-presence-1628186" target="_blank" rel="external">The <strong>Nokia</strong>-branded <strong>Android</strong> smartphones are on the way</a> <a href="#fnref2" class="footnote-backref">↩</a></p>
 </li>
+<li id="fn3" class="footnote-item"><p>随着 小米 Note，Mix，米6 的推出，小米的设计师终于开始注重颜值了，但当初为了抢占市场塑造的屌丝的第一印象俨然成了小米今后前进的桎梏。 『  up: 2017-04-21 』 <a href="#fnref3" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>不升级就强制显示小红点的做法无异于耍流氓 <a href="#fnref4" class="footnote-backref">↩</a></p>
+</li>
 </ol>
 </section>
 ]]></content>
@@ -311,7 +322,7 @@
     <summary type="html">
     
       &lt;p&gt;&lt;img src=&quot;http://og4ax7q57.bkt.clouddn.com/android-spy.png?imageView2/2/w/700/interlace/0/q/100%7Cwatermark/2/text/ZGFybGVleS5tZQ==/font/Y29taWMgc2FucyBtcw==/fontsize/500/fill/I0VGRUZFRg==/dissolve/64/gravity/SouthEast/dx/30/dy/20&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-&lt;p&gt;博主作为一枚伪Android开发者，在苹果阵营&lt;strong&gt;潜伏&lt;/strong&gt;了近两年之久，最近光荣恢复了身份，为表忠心，作一下思想汇报！&lt;/p&gt;
+&lt;p&gt;作为一枚伪Android开发者，在苹果阵营&lt;strong&gt;潜伏&lt;/strong&gt;了近两年之久，最近光荣恢复了身份，为表忠心，作一下思想汇报！&lt;/p&gt;
     
     </summary>
     
