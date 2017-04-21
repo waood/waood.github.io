@@ -183,9 +183,9 @@
       <category term="blog" scheme="http://darleey.me/categories/project/blog/"/>
     
     
-      <category term="瞎折腾" scheme="http://darleey.me/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
-    
       <category term="技术观" scheme="http://darleey.me/tags/%E6%8A%80%E6%9C%AF%E8%A7%82/"/>
+    
+      <category term="瞎折腾" scheme="http://darleey.me/tags/%E7%9E%8E%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   
@@ -248,9 +248,9 @@
       <category term="comment" scheme="http://darleey.me/categories/programming/comment/"/>
     
     
-      <category term="技术观" scheme="http://darleey.me/tags/%E6%8A%80%E6%9C%AF%E8%A7%82/"/>
-    
       <category term="编程" scheme="http://darleey.me/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+      <category term="技术观" scheme="http://darleey.me/tags/%E6%8A%80%E6%9C%AF%E8%A7%82/"/>
     
   </entry>
   
@@ -553,8 +553,6 @@
       <category term="summary" scheme="http://darleey.me/categories/programming/summary/"/>
     
     
-      <category term="技术观" scheme="http://darleey.me/tags/%E6%8A%80%E6%9C%AF%E8%A7%82/"/>
-    
       <category term="Android" scheme="http://darleey.me/tags/Android/"/>
     
       <category term="编程" scheme="http://darleey.me/tags/%E7%BC%96%E7%A8%8B/"/>
@@ -562,6 +560,8 @@
       <category term="小结" scheme="http://darleey.me/tags/%E5%B0%8F%E7%BB%93/"/>
     
       <category term="变迁史" scheme="http://darleey.me/tags/%E5%8F%98%E8%BF%81%E5%8F%B2/"/>
+    
+      <category term="技术观" scheme="http://darleey.me/tags/%E6%8A%80%E6%9C%AF%E8%A7%82/"/>
     
   </entry>
   
